@@ -4,6 +4,7 @@ module.exports = {
     description: `Rain drops falling on my head...`,
     author: `Andrea Reed`,
   },
+  pathPrefix: "/rain",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
