@@ -124,6 +124,7 @@ body {
   bottom: 10px;
   text-align: center;
   width: 100vw;
+  z-index: 2;
 }
 
 .credit a {
